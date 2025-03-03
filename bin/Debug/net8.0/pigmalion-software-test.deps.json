@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "pigmalion-software-test/1.0.0": {
+        "runtime": {
+          "pigmalion-software-test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pigmalion-software-test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

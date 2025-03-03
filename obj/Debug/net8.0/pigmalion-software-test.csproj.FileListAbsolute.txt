@@ -1,0 +1,15 @@
+C:\Users\salin\OneDrive\Documentos\GitHub\pigmalion-software-test\bin\Debug\net8.0\pigmalion-software-test.exe
+C:\Users\salin\OneDrive\Documentos\GitHub\pigmalion-software-test\bin\Debug\net8.0\pigmalion-software-test.deps.json
+C:\Users\salin\OneDrive\Documentos\GitHub\pigmalion-software-test\bin\Debug\net8.0\pigmalion-software-test.runtimeconfig.json
+C:\Users\salin\OneDrive\Documentos\GitHub\pigmalion-software-test\bin\Debug\net8.0\pigmalion-software-test.dll
+C:\Users\salin\OneDrive\Documentos\GitHub\pigmalion-software-test\bin\Debug\net8.0\pigmalion-software-test.pdb
+C:\Users\salin\OneDrive\Documentos\GitHub\pigmalion-software-test\obj\Debug\net8.0\pigmalion-software-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salin\OneDrive\Documentos\GitHub\pigmalion-software-test\obj\Debug\net8.0\pigmalion-software-test.AssemblyInfoInputs.cache
+C:\Users\salin\OneDrive\Documentos\GitHub\pigmalion-software-test\obj\Debug\net8.0\pigmalion-software-test.AssemblyInfo.cs
+C:\Users\salin\OneDrive\Documentos\GitHub\pigmalion-software-test\obj\Debug\net8.0\pigmalion-software-test.csproj.CoreCompileInputs.cache
+C:\Users\salin\OneDrive\Documentos\GitHub\pigmalion-software-test\obj\Debug\net8.0\pigmalion-software-test.dll
+C:\Users\salin\OneDrive\Documentos\GitHub\pigmalion-software-test\obj\Debug\net8.0\refint\pigmalion-software-test.dll
+C:\Users\salin\OneDrive\Documentos\GitHub\pigmalion-software-test\obj\Debug\net8.0\pigmalion-software-test.pdb
+C:\Users\salin\OneDrive\Documentos\GitHub\pigmalion-software-test\obj\Debug\net8.0\pigmalion-software-test.genruntimeconfig.cache
+C:\Users\salin\OneDrive\Documentos\GitHub\pigmalion-software-test\obj\Debug\net8.0\ref\pigmalion-software-test.dll
+C:\Users\salin\OneDrive\Documentos\GitHub\pigmalion-software-test\obj\Debug\net8.0\pigmalion-software-test.sourcelink.json
